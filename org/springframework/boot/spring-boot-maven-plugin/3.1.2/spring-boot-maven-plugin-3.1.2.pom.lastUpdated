@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 16 11:38:49 EAT 2023
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:3.1.2 from/to central (https\://repo.maven.apache.org/maven2)\: Unexpected response code for CONNECT\: 502
+2a3e13d05bde9ddaa5610f475cc77e2c24fca159@192.168.4.11\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1697445529834
